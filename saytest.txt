@@ -1,1 +1,1 @@
-say ja "これはXoxzoのDINテストです"
+say en "This is a Dial In Number Test"
